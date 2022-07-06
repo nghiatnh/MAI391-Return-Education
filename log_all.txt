@@ -1,0 +1,408 @@
+data id is 0          2
+1          3
+2          4
+3          5
+4          6
+        ... 
+3005    5218
+3006    5219
+3007    5220
+3008    5221
+3009    5225
+Name: id, Length: 3010, dtype: int64
+data nearc2 is 0       0
+1       0
+2       0
+3       1
+4       1
+       ..
+3005    0
+3006    0
+3007    0
+3008    0
+3009    0
+Name: nearc2, Length: 3010, dtype: int64
+data nearc4 is 0       0
+1       0
+2       0
+3       1
+4       1
+       ..
+3005    1
+3006    1
+3007    1
+3008    1
+3009    1
+Name: nearc4, Length: 3010, dtype: int64
+data educ is 0        7
+1       12
+2       12
+3       11
+4       12
+        ..
+3005    12
+3006    13
+3007    12
+3008    12
+3009    13
+Name: educ, Length: 3010, dtype: int64
+data age is 0       29
+1       27
+2       34
+3       27
+4       34
+        ..
+3005    25
+3006    34
+3007    24
+3008    31
+3009    26
+Name: age, Length: 3010, dtype: int64
+data fatheduc is 0        NaN
+1        8.0
+2       14.0
+3       11.0
+4        8.0
+        ... 
+3005     8.0
+3006     NaN
+3007    11.0
+3008     NaN
+3009     NaN
+Name: fatheduc, Length: 3010, dtype: float64
+data motheduc is 0        NaN
+1        8.0
+2       12.0
+3       12.0
+4        7.0
+        ... 
+3005    12.0
+3006     NaN
+3007     NaN
+3008     NaN
+3009     NaN
+Name: motheduc, Length: 3010, dtype: float64
+data weight is 0       158413
+1       380166
+2       367470
+3       380166
+4       367470
+         ...  
+3005     82135
+3006     88765
+3007     89271
+3008    110376
+3009     81081
+Name: weight, Length: 3010, dtype: int64
+data momdad14 is 0       1
+1       1
+2       1
+3       1
+4       1
+       ..
+3005    1
+3006    1
+3007    0
+3008    1
+3009    0
+Name: momdad14, Length: 3010, dtype: int64
+data sinmom14 is 0       0
+1       0
+2       0
+3       0
+4       0
+       ..
+3005    0
+3006    0
+3007    0
+3008    0
+3009    0
+Name: sinmom14, Length: 3010, dtype: int64
+data step14 is 0       0
+1       0
+2       0
+3       0
+4       0
+       ..
+3005    0
+3006    0
+3007    0
+3008    0
+3009    0
+Name: step14, Length: 3010, dtype: int64
+data reg661 is 0       1
+1       1
+2       1
+3       0
+4       0
+       ..
+3005    0
+3006    0
+3007    0
+3008    0
+3009    0
+Name: reg661, Length: 3010, dtype: int64
+data reg662 is 0       0
+1       0
+2       0
+3       1
+4       1
+       ..
+3005    0
+3006    0
+3007    0
+3008    0
+3009    0
+Name: reg662, Length: 3010, dtype: int64
+data reg663 is 0       0
+1       0
+2       0
+3       0
+4       0
+       ..
+3005    0
+3006    0
+3007    0
+3008    0
+3009    0
+Name: reg663, Length: 3010, dtype: int64
+data reg664 is 0       0
+1       0
+2       0
+3       0
+4       0
+       ..
+3005    0
+3006    0
+3007    0
+3008    0
+3009    0
+Name: reg664, Length: 3010, dtype: int64
+data reg665 is 0       0
+1       0
+2       0
+3       0
+4       0
+       ..
+3005    0
+3006    0
+3007    0
+3008    0
+3009    0
+Name: reg665, Length: 3010, dtype: int64
+data reg666 is 0       0
+1       0
+2       0
+3       0
+4       0
+       ..
+3005    1
+3006    1
+3007    1
+3008    1
+3009    1
+Name: reg666, Length: 3010, dtype: int64
+data reg667 is 0       0
+1       0
+2       0
+3       0
+4       0
+       ..
+3005    0
+3006    0
+3007    0
+3008    0
+3009    0
+Name: reg667, Length: 3010, dtype: int64
+data reg668 is 0       0
+1       0
+2       0
+3       0
+4       0
+       ..
+3005    0
+3006    0
+3007    0
+3008    0
+3009    0
+Name: reg668, Length: 3010, dtype: int64
+data reg669 is 0       0
+1       0
+2       0
+3       0
+4       0
+       ..
+3005    0
+3006    0
+3007    0
+3008    0
+3009    0
+Name: reg669, Length: 3010, dtype: int64
+data south66 is 0       0
+1       0
+2       0
+3       0
+4       0
+       ..
+3005    1
+3006    1
+3007    1
+3008    1
+3009    1
+Name: south66, Length: 3010, dtype: int64
+data black is 0       1
+1       0
+2       0
+3       0
+4       0
+       ..
+3005    0
+3006    0
+3007    0
+3008    0
+3009    1
+Name: black, Length: 3010, dtype: int64
+data smsa is 0       1
+1       1
+2       1
+3       1
+4       1
+       ..
+3005    0
+3006    1
+3007    0
+3008    0
+3009    0
+Name: smsa, Length: 3010, dtype: int64
+data south is 0       0
+1       0
+2       0
+3       0
+4       0
+       ..
+3005    1
+3006    1
+3007    1
+3008    1
+3009    1
+Name: south, Length: 3010, dtype: int64
+data smsa66 is 0       1
+1       1
+2       1
+3       1
+4       1
+       ..
+3005    0
+3006    0
+3007    0
+3008    0
+3009    0
+Name: smsa66, Length: 3010, dtype: int64
+data wage is 0       548
+1       481
+2       721
+3       250
+4       729
+       ... 
+3005    335
+3006    481
+3007    500
+3008    713
+3009    525
+Name: wage, Length: 3010, dtype: int64
+data enroll is 0       0
+1       0
+2       0
+3       0
+4       0
+       ..
+3005    0
+3006    0
+3007    0
+3008    0
+3009    1
+Name: enroll, Length: 3010, dtype: int64
+data KWW is 0       15.0
+1       35.0
+2       42.0
+3       25.0
+4       34.0
+        ... 
+3005    15.0
+3006    43.0
+3007    25.0
+3008    32.0
+3009    27.0
+Name: KWW, Length: 3010, dtype: float64
+data IQ is 0         NaN
+1        93.0
+2       103.0
+3        88.0
+4       108.0
+        ...  
+3005      NaN
+3006      NaN
+3007    109.0
+3008    107.0
+3009      NaN
+Name: IQ, Length: 3010, dtype: float64
+data married is 0       1.0
+1       1.0
+2       1.0
+3       1.0
+4       1.0
+       ... 
+3005    1.0
+3006    1.0
+3007    1.0
+3008    1.0
+3009    1.0
+Name: married, Length: 3010, dtype: float64
+data libcrd14 is 0       0.0
+1       1.0
+2       1.0
+3       1.0
+4       0.0
+       ... 
+3005    0.0
+3006    1.0
+3007    0.0
+3008    1.0
+3009    0.0
+Name: libcrd14, Length: 3010, dtype: float64
+data exper is 0       16
+1        9
+2       16
+3       10
+4       16
+        ..
+3005     7
+3006    15
+3007     6
+3008    13
+3009     7
+Name: exper, Length: 3010, dtype: int64
+data lwage is 0       6.306275
+1       6.175867
+2       6.580639
+3       5.521461
+4       6.591674
+          ...   
+3005    5.814130
+3006    6.175867
+3007    6.214608
+3008    6.569481
+3009    6.263398
+Name: lwage, Length: 3010, dtype: float64
+data expersq is 0       256
+1        81
+2       256
+3       100
+4       256
+       ... 
+3005     49
+3006    225
+3007     36
+3008    169
+3009     49
+Name: expersq, Length: 3010, dtype: int64
