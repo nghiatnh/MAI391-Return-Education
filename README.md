@@ -132,3 +132,11 @@ The mean of error distribution also equal to 0.
 However, our model need to be improved because R-square is low.
 
 Our result can help we determine what features effect to wage of a worker (like education,...) and our model can predict approximate values of the wage.
+
+# Collaborators
+
+- Tra Nguyen Huu Nghia (leader)
+- Nguyen Minh Nhat
+- Vuong Minh Tuan
+- Nguyen Huynh Lam
+- Do Phu Anh Tai
