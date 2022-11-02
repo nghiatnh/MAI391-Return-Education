@@ -1,6 +1,8 @@
 # Project-MAI391
 
-## We find out features that effect to wage of a worker.
+Find out features that effect to wage of a worker.
+
+# Data
 
 There are features description from wage.xlsx:
 
